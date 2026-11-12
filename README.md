@@ -19,15 +19,8 @@ estimation through a Work Breakdown Structure (WBS).
   (WBS) that improved the accuracy of project cost estimates
 
 ## Tools used
-Primavera · [Add others, e.g. Microsoft Excel or MS Project if applicable]
+Primavera 
 
-## Project context
-[Add 1-2 sentences: what project was planned, e.g. a construction project
-or a case study, and its approximate size or duration]
-
-## Repository contents
-- `schedule/`: Primavera project file or exported Gantt chart (PDF)
-- `wbs/`: Work Breakdown Structure and cost estimate
 - `report/`: written report or presentation (PDF)
 
 ## Key concepts applied
